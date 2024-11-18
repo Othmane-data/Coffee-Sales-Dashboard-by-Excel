@@ -17,7 +17,7 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
 ## Skills/ concepts demonstrated
 - 🧮 Formulas and Functions
 - 📉 Charts and Visualization
-- ❎ Data Validation
+- ❎ Conclusion and Recommendations
 
 
 ### 🧮 Formulas and Functions:
@@ -92,3 +92,6 @@ ___3. Top Sales By Customers Name:___
 
 analyser cettebshart
 
+
+
+### ❎ Conclusion and Recommendations:
