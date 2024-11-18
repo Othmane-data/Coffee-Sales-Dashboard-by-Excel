@@ -55,4 +55,10 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
     MATCH(products!$E$1,products!$A$1:$G$1,0))
 ```
 
+### 📉 Charts and Visualization:
+we're use the pivot table for every shart
+
+__- Top sales of Coffee__
+
+[](total sales.png)
 
