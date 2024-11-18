@@ -63,13 +63,20 @@ ___1. Top Sales Of Coffee;___
 ___2. Top Sales By Country;___
 
 ___3. Top Sales By Customers Name.___
- 
+
 we're use the pivot table for every shart
+
+__- Features:__
+- Order Date by Mounth Timeline;
+- Size Slicer;
+- Roast Type Name Slicer;
+- Loyalty Card Slicer.
+
 You can view the all dashboard [here](coffeeOrdersData.xlsx)
 
 ___1. Top Sales Of Coffee:___
 
-![](total_sales_coffee.png)
+![](total_of_coffee.png)
 
 analyser cettebshart
 
