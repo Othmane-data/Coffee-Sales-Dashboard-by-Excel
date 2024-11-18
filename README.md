@@ -22,20 +22,20 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
 
 ### 🧮 Formulas and Functions:
 - Customer Name,Email,Country;
-  ```
-  - Customer Name=XLOOKUP
+```
+- Customer Name=XLOOKUP
   (C2,customers!$A$1:$A$1001,
     customers!$B$1:$B$1001,,0)
   
-  - Email=IF
+- Email=IF
   (XLOOKUP(C2,customers!$A$1:$A$1001,
     customers!$C$1:$C$1001,,0)=0,"",
       XLOOKUP(C2,customers!$A$1:$A$1001,customers!$C$1:$C$1001,,0))
 
-  - Country=XLOOKUP
+- Country=XLOOKUP
   (C2,customers!$A$1:$A$1001,
     customers!$G$1:$G$1001,,0)
-  ```
+```
   
 - Coffee Type,Roast Type,Unit Price;
 ```
