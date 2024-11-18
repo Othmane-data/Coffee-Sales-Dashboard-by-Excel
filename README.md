@@ -56,14 +56,14 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
 ```
 
 ### 📉 Charts and Visualization:
-The report comprises 4 charts:
+The report comprises 3 charts:
+
 ___1. Top Sales Of Coffee___
 ___2. Top Sales By Country___
 ___3. Top Sales By Customers Name___
 
-You can interact with the report
 we're use the pivot table for every shart
-
+You can view the all dashboard [here](coffeeOrdersData.xlsx)
 
 ___1. Top Sales Of Coffee___
 
