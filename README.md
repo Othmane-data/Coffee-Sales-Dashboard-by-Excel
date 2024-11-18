@@ -78,19 +78,19 @@ ___1. Top Sales Of Coffee:___
 
 ![](total_of_coffee.png)
 
-analyser cettebshart
+There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓
 
 ___2. Top Sales By Country:___
 
 ![](top_sales_by_country.PNG)
 
-analyser cettebshart
+United states is the major coffee consuming country for our store with a total sales over than 35 000 $.
 
 ___3. Top Sales By Customers Name:___
 
 ![](top_sales_by_customers_name.PNG)
 
-analyser cettebshart
+Alise Wilmore is thefirst customer consuming coffee at our store with a turnover of more than 317 $
 
 
 
