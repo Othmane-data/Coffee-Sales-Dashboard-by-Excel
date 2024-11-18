@@ -3,8 +3,8 @@
 ---
 
 ## Introduction
-This Coffee Sales dashboard was created to help Manager investigate sales of coffee,by Coffee name, country and by Customers names.
-The data is from my Excel document, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on Order ID,Customer ID,Customer Name,Coffee Type Name etc and essential skills that are presented here.
+This Coffee Sales dashboard was created to help ManagerS investigate sales of coffee,by Coffee name, country and, by Customers names.
+The data is from my Excel document, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on Order ID,Customer ID,CustomerS Name,Coffee Type Name etc and essential skills that are presented here.
 
 ## Dashboard File
 My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-Excel/blob/main/coffeeOrdersData.xlsx)
@@ -19,10 +19,19 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
 - 📉 Charts and Visualization
 - ❎ Data Validation
 
+
+###🧮 Formulas and Functions:
+- Customer Name,Email,Country;
   ```
-  =IF
+  - Customer Name=XLOOKUP
+  (C2,customers!$A$1:$A$1001,customers!$B$1:$B$1001,,0)
+  
+  - Email=IF
   (XLOOKUP(C2,customers!$A$1:$A$1001,customers!$C$1:$C$1001,,0)=0,"",
   XLOOKUP(C2,customers!$A$1:$A$1001,customers!$C$1:$C$1001,,0))
+
+  - Country=XLOOKUP
+  (C2,customers!$A$1:$A$1001,customers!$G$1:$G$1001,,0)
   ```
 
 
