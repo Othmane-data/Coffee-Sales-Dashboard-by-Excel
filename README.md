@@ -78,20 +78,25 @@ ___1. Top Sales Of Coffee:___
 
 ![](total_of_coffee.png)
 
-There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓
+_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
 
 ___2. Top Sales By Country:___
 
 ![](top_sales_by_country.PNG)
 
-United states is the major coffee consuming country for our store with a total sales over than 35 000 $.
+_United states is the major coffee consuming country for our store with a total sales over than 35 000 $._
 
 ___3. Top Sales By Customers Name:___
 
 ![](top_sales_by_customers_name.PNG)
 
-Alise Wilmore is thefirst customer consuming coffee at our store with a turnover of more than 317 $
+_Allis Wilmore is the first customer consuming coffee at our store with a turnover of more than 317 $_
 
 
 
 ### ❎ Conclusion and Recommendations:
+
+Illinois has the highest impact on income although relatively negligible.
+There are 128 products in the stores with a worth of 140 million dollars. 😄
+#Recommendation: For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision making.
+
