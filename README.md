@@ -56,21 +56,28 @@ My final [dashboard](https://github.com/Othmane-data/Coffee-Sales-Dashboard-by-E
 ```
 
 ### 📉 Charts and Visualization:
+The report comprises 4 charts:
+___1. Top Sales Of Coffee___
+___2. Top Sales By Country___
+___3. Top Sales By Customers Name___
+
+You can interact with the report
 we're use the pivot table for every shart
 
-__- Top Sales Of Coffee__
+
+___1. Top Sales Of Coffee___
 
 ![](total_sales_coffee.png)
 
 analyser cettebshart
 
-__-Top Sales By Country__
+___2. Top Sales By Country___
 
 ![](top_sales_by_country.PNG)
 
 analyser cettebshart
 
-__-Top Sales By Customers Name__
+___3. Top Sales By Customers Name___
 
 ![](top_sales_by_customers_name.PNG)
 
